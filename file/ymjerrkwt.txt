@@ -1,0 +1,523 @@
+地方名酒	err：gettext is null
+保健酒	err：gettext is null
+﻿白酒	err: have a bug
+景芝酒 err:0
+沱牌曲酒	err：gettext is null
+崂山啤酒	err：gettext is null
+金星啤酒	err：gettext is null
+赊店老酒 err:0
+嘉士伯啤酒	err：gettext is null
+金威啤酒	err：gettext is null
+哈尔滨啤酒	err：gettext is null
+冰啤 err:0
+全麦芽啤酒	err：gettext is null
+通化葡萄酒	err：gettext is null
+西夏王葡萄酒	err：gettext is null
+浓色啤酒	err：gettext is null
+淡色啤酒	err：gettext is null
+王朝葡萄酒	err：gettext is null
+威龙干红	err：gettext is null
+椰岛鹿龟酒 err:0
+宁夏枸杞酒	err：gettext is null
+即墨老酒	err：gettext is null
+玛咖酒 err:0
+三鞭酒 err:0
+黄鹤楼	err：gettext is null
+苦荞酒 err:0
+凯狮啤酒	err：gettext is null
+韩国烧酒	err：gettext is null
+文王贡酒	err：gettext is null
+狮牌啤酒	err：gettext is null
+森力啤酒	err：gettext is null
+金士百啤酒	err：gettext is null
+麦城黑啤	err：gettext is null
+珠江啤酒	err：gettext is null
+ktv啤酒	err：gettext is null
+参茸酒 err:0
+鹿龟酒 err:0
+鹿鞭酒 err:0
+东北人参酒	err：gettext is null
+加饭酒 err:0
+五味子酒 err:0
+仲景保健酒	err：gettext is null
+三蛇酒	err：gettext is null
+香雪酒 err:0
+人参酒 err:0
+国公酒 err:0
+黄精酒 err:0
+辽金雄风酒 err:0
+咸亨黄酒	err：gettext is null
+乌鸡酒 err:0
+客家黄酒	err：gettext is null
+五加皮酒 err:0
+十足全蝎酒 err:0
+乐堡啤酒	err：gettext is null
+千岛湖啤酒	err：gettext is null
+嘉禾啤酒	err：gettext is null
+超干啤酒	err：gettext is null
+山城啤酒	err：gettext is null
+神力蚂蚁酒 err:0
+麒麟啤酒	err：gettext is null
+朝日啤酒	err：gettext is null
+青丽啤酒	err：gettext is null
+艾丁格啤酒	err：gettext is null
+回春酒 err:0
+人参枸杞酒 err:0
+玛卡酒 err:0
+绍兴老酒	err：gettext is null
+红枣枸杞酒	err：gettext is null
+熊胆酒 err:0
+猛士黑啤	err：gettext is null
+绍兴加饭酒	err：gettext is null
+风湿酒 err:0
+黑蚂蚁酒 err:0
+双轮酒 err:0
+咸亨雕皇 err:0
+唐宋花雕酒	err：gettext is null
+永不分梨酒 err:0
+惠泉啤酒	err：gettext is null
+养生啤酒	err：gettext is null
+夜场啤酒	err：gettext is null
+大麦啤酒 err:0
+比尔森啤酒	err：gettext is null
+青轩啤酒	err：gettext is null
+海特啤酒	err：gettext is null
+饭店啤酒	err：gettext is null
+雪津啤酒	err：gettext is null
+麦克斯啤酒	err：gettext is null
+茅台啤酒	err：gettext is null
+衡水老白干啤酒	err：gettext is null
+麦氏啤酒	err：gettext is null
+弗伦斯堡啤酒	err：gettext is null
+萨格雷斯啤酒	err：gettext is null
+酒吧啤酒	err：gettext is null
+全麦啤酒 err:0
+珊蒂诗葡萄酒	err：gettext is null
+希雅斯葡萄酒	err：gettext is null
+吉洛阳光葡萄酒	err：gettext is null
+三得利啤酒	err：gettext is null
+艾斯卡特葡萄酒	err：gettext is null
+西湖啤酒	err：gettext is null
+黄桂稠酒 err:0
+台湾金门高粱酒	err：gettext is null
+日月潭高粱酒	err：gettext is null
+五步蛇蚂蚁酒 err:0
+蝮蛇酒 err:0
+蛤蚧酒 err:0
+蛇毒酒 err:0
+蛇胆酒 err:0
+蓝莓果酒	err：gettext is null
+天香冰果酒	err：gettext is null
+永州异蛇酒 err:0
+无花果酒	err：gettext is null
+蓝莓酒 err:0
+板栗酒 err:0
+荔枝酒	err：gettext is null
+杨梅果酒	err：gettext is null
+枇杷酒	err：gettext is null
+猕猴桃果酒	err：gettext is null
+覆盆子果酒	err：gettext is null
+郎锐鸡尾酒	err：gettext is null
+异蛇王酒	err：gettext is null
+百仙高粱酒	err：gettext is null
+八八坑道 err:0
+阿拉老酒	err：gettext is null
+福建老酒	err：gettext is null
+茅台红酒	err：gettext is null
+丹阳黄酒	err：gettext is null
+井冈山红米酒	err：gettext is null
+客家娘酒 err:0
+福建黄酒	err：gettext is null
+虎骨酒 err:0
+谢村黄酒	err：gettext is null
+虎头蜂酒 err:0
+徽州甲酒 err:0
+鹿茸酒 err:0
+鹿鞭补酒 err:0
+蛤蚧御酒	err：gettext is null
+鹿心血酒 err:0
+人参虫草酒	err：gettext is null
+虫草养生酒 err:0
+金种子酒 err:0
+牛蒡酒 err:0
+宣酒	err：gettext is null
+金坛子 err:0
+功成天下 err:0
+五岭洞藏 err:0
+店小二	err：gettext is null
+难得糊涂 err:0
+全丰酒 err:0
+高炉家酒 err:0
+皖酒王 err:0
+双轮池酒 err:0
+金红缘酒 err:0
+难得糊涂地和酒	err：gettext is null
+江口醇 err:0
+丰谷酒	err：gettext is null
+百年皖酒	err：gettext is null
+小角楼 err:0
+不倒翁 err:0
+小财神 err:0
+丰谷老窖	err：gettext is null
+丰谷酒王	err：gettext is null
+鹅黄酒	err：gettext is null
+宝莲大曲	err：gettext is null
+轩辕 err:0
+丰谷特曲	err：gettext is null
+秦唐金箔酒 err:0
+长安酒	err：gettext is null
+太白醉 err:0
+诗仙太白盛世唐朝	err：gettext is null
+张弓酒 err:0
+鹿邑大曲 err:0
+武陵酒 err:0
+龙行天下酒 err:0
+浏阳河老酒坊	err：gettext is null
+朗陵罐酒 err:0
+宝丰酒 err:0
+彩陶坊 err:0
+枝江酒 err:0
+仰韶彩陶坊 err:0
+稻花香酒 err:0
+霸王醉 err:0
+江津白酒	err：gettext is null
+渝北老窖	err：gettext is null
+石花霸王醉	err：gettext is null
+黄山头 err:0
+汾阳王酒 err:0
+武当酒 err:0
+贵州醇 err:0
+黔台酒 err:0
+黔水坊 err:0
+金力来酒 err:0
+老土酒 err:0
+乡巴佬 err:0
+茅泉酒 err:0
+小醉仙 err:0
+安酒	err：gettext is null
+荣和烧坊	err：gettext is null
+怀庄酒 err:0
+酒神王子	err：gettext is null
+马奶酒	err：gettext is null
+双洋特曲	err：gettext is null
+河套老窖	err：gettext is null
+水墨金州 err:0
+奶酒王	err：gettext is null
+汤沟酒 err:0
+宁城老窖	err：gettext is null
+河套王 err:0
+裕井烧坊	err：gettext is null
+怀庄1983 err:0
+怀庄烧坊 err:0
+怀庄赖茅酒	err：gettext is null
+景阳冈 err:0
+扳倒井酒 err:0
+琅琊台酒 err:0
+泰山特曲	err：gettext is null
+禹王亭 err:0
+泰山大观	err：gettext is null
+百脉泉	err：gettext is null
+泰山云海	err：gettext is null
+泰山魂	err：gettext is null
+安泰山	err：gettext is null
+李渡酒 err:0
+临川贡酒	err：gettext is null
+章贡王 err:0
+板城烧锅酒 err:0
+四特东方韵 err:0
+芦台春 err:0
+道光廿五酒	err：gettext is null
+玫瑰液酒	err：gettext is null
+限量版四特酒	err：gettext is null
+京都二锅头	err：gettext is null
+京都百年香	err：gettext is null
+京王子酒	err：gettext is null
+金塔青稞酒	err：gettext is null
+牛二陈酿	err：gettext is null
+白牛二	err：gettext is null
+百年红星二锅头	err：gettext is null
+伊力特曲	err：gettext is null
+红星蓝瓶二锅头	err：gettext is null
+洮儿河 err:0
+玉泉方瓶	err：gettext is null
+黑土地 err:0
+伊力柔雅	err：gettext is null
+北大荒白酒	err：gettext is null
+龙江家园 err:0
+竹筒酒 err:0
+丹泉酒 err:0
+洮南香 err:0
+烧刀子酒 err:0
+榆树钱 err:0
+桂林三花酒 err:0
+林家铺子 err:0
+酒中仙 err:0
+老泥窖 err:0
+长乐烧 err:0
+六和液	err：gettext is null
+五粮液玉酒	err：gettext is null
+酿神酒 err:0
+五粮神	err：gettext is null
+春夏秋冬酒	err：gettext is null
+天缸酒 err:0
+百年老店	err：gettext is null
+大展宏图 err:0
+陈泥香	err：gettext is null
+五粮液烤酒	err：gettext is null
+福满盛世酒 err:0
+大成唐窖 err:0
+长三角	err：gettext is null
+财源滚滚 err:0
+金谷春 err:0
+五粮液添福酒	err：gettext is null
+五粮液婚宴酒	err：gettext is null
+五粮液冰珀43	err：gettext is null
+五粮液定制酒	err：gettext is null
+永福酱酒	err：gettext is null
+五粮液感恩酒	err：gettext is null
+白玉汾酒	err：gettext is null
+玫瑰汾酒	err：gettext is null
+杏花村一坛香	err：gettext is null
+杏花村百福兴	err：gettext is null
+杏花村福酒	err：gettext is null
+杏花村和酒	err：gettext is null
+国藏汾酒	err：gettext is null
+珍藏郎酒	err：gettext is null
+喜福郎酒	err：gettext is null
+紫砂郎	err：gettext is null
+红铁盒郎酒	err：gettext is null
+郎酒金满斗	err：gettext is null
+金如意 err:0
+贵宾郎酒	err：gettext is null
+新郎酒	err：gettext is null
+喜福郎酒	err：gettext is null
+西凤喜酒	err：gettext is null
+红西凤酒	err：gettext is null
+西凤15年陈酿酒	err：gettext is null
+凤舞中华	err：gettext is null
+华山论剑西凤酒	err：gettext is null
+国花瓷西凤酒	err：gettext is null
+百年西凤酒	err：gettext is null
+洋河青花瓷	err：gettext is null
+西凤酒华山论剑	err：gettext is null
+洋河美人泉	err：gettext is null
+天缘西凤酒	err：gettext is null
+蓝色世家	err：gettext is null
+苏源洋河酒	err：gettext is null
+内参酒 err:0
+嘉宾洋河	err：gettext is null
+湘泉酒	err：gettext is null
+贵宾洋河	err：gettext is null
+景芝5年酒	err：gettext is null
+泸州老窖精品头曲	err：gettext is null
+景阳春原浆酒	err：gettext is null
+景芝红8年酒	err：gettext is null
+泸州老窖二曲	err：gettext is null
+经典景阳春	err：gettext is null
+泸州原浆酒	err：gettext is null
+永盛烧坊 err:0
+泸州御酒	err：gettext is null
+大元帅	err：gettext is null
+东方之珠	err：gettext is null
+传奇珍酒	err：gettext is null
+泸州老窖精品特曲	err：gettext is null
+国窖1573蓝花釉	err：gettext is null
+银剑南	err：gettext is null
+金质习酒	err：gettext is null
+酒祖杜康	err：gettext is null
+天子呼 err:0
+赊店青花瓷	err：gettext is null
+赊店元青花	err：gettext is null
+小水井 err:0
+舍得酒	err：gettext is null
+国花杜康	err：gettext is null
+飞天商务酒	err：gettext is null
+茅台仁酒	err：gettext is null
+汉酱酒 err:0
+茅台成龙酒	err：gettext is null
+杜康经典	err：gettext is null
+白水杜康	err：gettext is null
+杜康老酒	err：gettext is null
+汝阳杜康	err：gettext is null
+华茅酒 err:0
+茅台不老酒	err：gettext is null
+富贵万年	err：gettext is null
+百年好合酒	err：gettext is null
+赖茅酒	err：gettext is null
+茅台天朝上品	err：gettext is null
+白金酱酒	err：gettext is null
+茅台白金酒	err：gettext is null
+飞天王子	err：gettext is null
+茅台贡酒	err：gettext is null
+洞藏老酒	err：gettext is null
+土烧酒	err：gettext is null
+赖永初酒 err:0
+赖室名茅 err:0
+竹筒酒 err:0
+福满天下 err:0
+满月酒 err:0
+人民大会堂酒 err:0
+婚宴用酒	err：gettext is null
+企业定制酒	err：gettext is null
+玫瑰花酒	err：gettext is null
+酒中酒霸 err:0
+天成祥 err:0
+古蔺郎酒	err：gettext is null
+洛神花酒	err：gettext is null
+咸亨老酒	err：gettext is null
+桂花酒 err:0
+桃花酒 err:0
+墨米酒	err：gettext is null
+佬米酒	err：gettext is null
+孝感米酒	err：gettext is null
+客家糯米酒	err：gettext is null
+黑米酒	err：gettext is null
+台湾米酒	err：gettext is null
+米酒曲	err：gettext is null
+金箔酒 err:0
+宣酒特贡 err:0
+牛角酒 err:0
+丹江口 err:0
+文君井	err：gettext is null
+八角楼	err：gettext is null
+红旗渠 err:0
+小涩郎白酒	err：gettext is null
+富平春 err:0
+玉田老酒	err：gettext is null
+延安	err：gettext is null
+武林风 err:0
+大米原浆酒	err：gettext is null
+白酒用途	err：gettext is null
+芝麻香型白酒	err：gettext is null
+辽金御酒	err：gettext is null
+醉八仙 err:0
+清宫御酒	err：gettext is null
+正兴酒 err:0
+御香坊 err:0
+通川大曲	err：gettext is null
+南泥湾 err:0
+曹操贡酒	err：gettext is null
+女士养颜酒	err：gettext is null
+枝江大曲 err:0
+楚园春 err:0
+泸州老窖精制二曲	err：gettext is null
+杏花酒 err:0
+东方情酒	err：gettext is null
+岳池特曲	err：gettext is null
+老宜宾酒 err:0
+关公坊 err:0
+诸葛酿 err:0
+大唐雄风 err:0
+竹影清风 err:0
+开口笑	err：gettext is null
+鲜竹酒 err:0
+湘西王 err:0
+百根冰 err:0
+梨花老窖	err：gettext is null
+洞庭春色 err:0
+习水大曲 err:0
+乾隆通宝 err:0
+全蝎酒 err:0
+国井	err：gettext is null
+凤城老窖	err：gettext is null
+乾隆御酒	err：gettext is null
+军川白酒	err：gettext is null
+开火二锅头	err：gettext is null
+地瓜酒 err:0
+雪花啤酒 err:0
+天藏地酒 err:0
+金星纯生	err：gettext is null
+巴黎香邑冰酒	err：gettext is null
+苦瓜酒 err:0
+国产啤酒	err：gettext is null
+六味地黄酒	err：gettext is null
+青岛纯生	err：gettext is null
+珠江纯生啤酒	err：gettext is null
+金色时代	err：gettext is null
+长城赤霞珠	err：gettext is null
+爱丽丝庄园	err：gettext is null
+玛歌圣玛丽庄园	err：gettext is null
+昌黎干红	err：gettext is null
+莱雅庄园	err：gettext is null
+冰峪庄园大米原浆酒	err：gettext is null
+桑椹干红 err:0
+平阴玫瑰酒	err：gettext is null
+雷司令红酒	err：gettext is null
+马栏山苹果酒	err：gettext is null
+美人松蓝莓酒 err:0
+糯米甜酒	err：gettext is null
+沙棘酒 err:0
+蓝美人经典	err：gettext is null
+蓝色苏誉	err：gettext is null
+蓝将啤酒	err：gettext is null
+西江贡 err:0
+赖贵山酒	err：gettext is null
+蓝莓冰酒	err：gettext is null
+仲景六味酒	err：gettext is null
+野生蓝莓酒	err：gettext is null
+云岭冰酒	err：gettext is null
+山水啤酒	err：gettext is null
+同山烧 err:0
+无醇红酒	err：gettext is null
+无醇葡萄酒	err：gettext is null
+望儿山 err:0
+双鹿啤酒	err：gettext is null
+康寿鹿王酒	err：gettext is null
+鹿尾鞭酒 err:0
+鹿茸人参酒 err:0
+龙蝎酒 err:0
+海参酒 err:0
+丹参酒 err:0
+蝎子酒 err:0
+枸杞酒 err:0
+海蓝之星 err:0
+五福人家 err:0
+草原白酒	err：gettext is null
+山东黄酒	err：gettext is null
+浙江黄酒	err：gettext is null
+陕西黄酒	err：gettext is null
+江苏黄酒	err：gettext is null
+福建双叶女人酒	err：gettext is null
+即墨妙府	err：gettext is null
+惠泽龙黄酒	err：gettext is null
+散酒 err:0
+茅台镇散酒	err：gettext is null
+淘金者 err:0
+白杨老窖	err：gettext is null
+白杨酒 err:0
+华夏盛世葡萄酒	err：gettext is null
+台湾啤酒	err：gettext is null
+老台粮坊 err:0
+梨园春 err:0
+台郎酒	err：gettext is null
+烟台三鞭酒	err：gettext is null
+茅台播窖1935	err：gettext is null
+茅台玉液	err：gettext is null
+沱牌光瓶	err：gettext is null
+老土人家 err:0
+杨梅烧酒	err：gettext is null
+唐朝老窖	err：gettext is null
+封缸酒 err:0
+丹阳封缸酒 err:0
+张裕冰酒	err：gettext is null
+梵威冰酒	err：gettext is null
+玉壶春 err:0
+苏打酒 err:0
+刁小妹 err:0
+玉堂春 err:0
+巴马神酒 err:0
+松花酒 err:0
+石斛仙酒 err:0
+壮骨酒 err:0
+玫瑰露酒	err：gettext is null
+韩露酒	err：gettext is null
+大兵啤酒	err：gettext is null
+池田梅酒	err：gettext is null
+叙府大曲	err：gettext is null
+荼薇酒 err:0
+鹿茸三鞭酒 err:0
+散酒基酒	err：gettext is null
+酱王酒	err：gettext is null
+伊春老窖	err：gettext is null
+玛咖啤酒	err：gettext is null
+97年赖茅酒	err：gettext is null
